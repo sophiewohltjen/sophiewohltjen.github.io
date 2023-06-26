@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm a post-doctoral researcher in Psychology at University of Wisconsin - Madison. I work with Paula Niedenthal.
   I completed my Ph.D. in Psychological and Brain Sciences at Dartmouth with Thalia Wheatley. I study what happens 
   when people get "in sync"——and what happens when they don't. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @sophiewohltjen
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sophiewohltjen
 github_username:  sophiewohltjen
 
 # Build settings
