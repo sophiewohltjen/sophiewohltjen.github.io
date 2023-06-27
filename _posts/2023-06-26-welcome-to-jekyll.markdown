@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sophie Wohltjen"
 date:   2023-06-26 15:54:50 -0500
 categories: jekyll update
 ---
