@@ -27,9 +27,13 @@ Wohltjen, S. & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink
 
 <i>Under review
 
-Turkstra, L., Hosseini-Moghaddam, S., Wohltjen, S., Nurre, S.V., Mutlu, B., & Duff, M. (under review). Adults with vs without TBI differ in how they “read” emotion in context. Frontiers in Psychology.
+Wohltjen, S., Zhong, Y., Colon, I., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (under review). Uniting theory and data: The promise and challenge of creating an honest model of facial expression. Cognition and Emotion.
 
 <i>Published
+
+Wohltjen, S., & Wheatley, T. (2024). Interpersonal eye-tracking reveals the dynamics of interacting minds. Frontiers in Human Neuroscience –Interacting Minds and Brains, 18. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1356680/full">[link]</a>
+
+Turkstra, L., Hosseini-Moghaddam, S., Wohltjen, S., Nurre, S.V., Mutlu, B., & Duff, M. (2023). Facial affect recognition in context in adults with and without TBI. Frontiers in Psychology – Emotion Science, 14. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1111686/full">[link]</a>
 
 Wohltjen, S., Toth, B., Boncz, A., & Wheatley, T. (2023). Synchrony to a beat predicts synchrony with other minds. Nature Scientific Reports, 13(3591). <a href="https://www.nature.com/articles/s41598-023-29776-6">[link]</a> <a href="https://github.com/sophiewohltjen/individual-attention">[data and code]</a>
 Coverage: <a href="https://www.psychologytoday.com/gb/blog/the-sensory-revolution/202003/dont-got-rhythm-what-it-means-to-be-beat-deaf">Psychology Today</a>
@@ -37,9 +41,9 @@ Coverage: <a href="https://www.psychologytoday.com/gb/blog/the-sensory-revolutio
 Wohltjen, S. & Wheatley, T. (2021). Eye contact marks the rise and fall of shared attention in conversation. Proceedings of the National Academy of Sciences, 118(37), 1-8. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2106645118">[link]</a> <a href="https://github.com/sophiewohltjen/eyeContact-in-conversation">[data and code]</a> 
 Coverage: <a href="https://www.scientificamerican.com/article/making-eye-contact-signals-a-new-turn-in-a-conversation/">Scientific American</a>, <a href="https://www.forbes.com/sites/jarretjackson/2022/07/20/is-your-team-in-sync-if-not-it-may-be-time-for-a-game/?sh=1e0f21d974cb">Forbes</a>
 
-Avery, J.A., Ingeholm, J.E., Wohltjen, S., Collins, M., Riddell, C., Gotts, S.J., Kenworthy, L., Wallace, G., Simmons, K., & Martin, A. (2018). Neural correlates of taste reactivity in autism spectrum disorders. Neuroimage Clinical, 19, 38-46. [link]
+Avery, J.A., Ingeholm, J.E., Wohltjen, S., Collins, M., Riddell, C., Gotts, S.J., Kenworthy, L., Wallace, G., Simmons, K., & Martin, A. (2018). Neural correlates of taste reactivity in autism spectrum disorders. Neuroimage Clinical, 19, 38-46. <a href="https://doi.org/10.1016/j.biopsych.2018.02.397">[link]</a>
 
-Mellem, M., Wohltjen, S., Gotts, S., Ghuman, A., & Martin, A. (2017). Intrinsic frequency biases and profiles across human cortex. Journal of Neurophysiology. [link]
+Mellem, M., Wohltjen, S., Gotts, S., Ghuman, A., & Martin, A. (2017). Intrinsic frequency biases and profiles across human cortex. Journal of Neurophysiology. <a href="https://journals.physiology.org/doi/full/10.1152/jn.00061.2017">[link]</a>
 
-Getz, L., Wohltjen, S., & Kubovy, M. (2016). Competition between rhythmic and language organization: The importance of task demands. Quarterly Journal of Experimental Psychology, (69). [link]
+Getz, L., Wohltjen, S., & Kubovy, M. (2016). Competition between rhythmic and language organization: The importance of task demands. Quarterly Journal of Experimental Psychology, (69). <a href="https://doi.org/10.1080/17470218.2016.1173078">[link]</a>
 
