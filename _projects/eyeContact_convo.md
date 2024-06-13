@@ -1,5 +1,5 @@
 ---
-name: Eye Contact And Synchrony in Conversation
+name: Eye Contact in Conversation
 tools: [Eye-tracking, Pupillometry]
 image: /assets/Figure3.png
 description: Short video of our findings
