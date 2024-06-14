@@ -19,15 +19,15 @@ My research aims to understand how nonverbal behaviors such as eye contact and f
 
 <i>In prep
 
-<strong>Wohltjen, S.</strong>, Zhong, Y., Colon, I., Zhao, O., Ward, E., Li, Y., Mutlu, B., & Niedenthal, P. (in prep). Discovering facial behaviors in the wild.
+<span class="bolded">Wohltjen, S.</span>, Zhong, Y., Colon, I., Zhao, O., Ward, E., Li, Y., Mutlu, B., & Niedenthal, P. (in prep). Discovering facial behaviors in the wild.
 
-<strong>Wohltjen, S.</strong>, Goldman, M., & Wheatley, T. (in prep). Hanging on to almost every word: Pupillary asynchrony between storytellers and listeners predicts enhanced memory for surprising, exciting story moments. 
+<span class="bolded">Wohltjen, S.</span>, Goldman, M., & Wheatley, T. (in prep). Hanging on to almost every word: Pupillary asynchrony between storytellers and listeners predicts enhanced memory for surprising, exciting story moments. 
 
-<strong>Wohltjen, S.</strong> & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink rate decreases as conversation partners become more engaged.
+<span class="bolded">Wohltjen, S.</span> & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink rate decreases as conversation partners become more engaged.
 
 <i>Under review
 
-<strong>Wohltjen, S.</strong>, Zhong, Y., Colon, I., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (under review). Uniting theory and data: The promise and challenge of creating an honest model of facial expression. Cognition and Emotion.
+<span class="bolded">Wohltjen, S.</span>, Zhong, Y., Colon, I., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (under review). Uniting theory and data: The promise and challenge of creating an honest model of facial expression. Cognition and Emotion.
 
 <i>Published
 
