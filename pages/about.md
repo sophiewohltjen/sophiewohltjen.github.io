@@ -7,29 +7,37 @@ weight: 3
 
 # **About Me**
 
-I am currently a post-doctoral research fellow in the Psychology department at UW-Madison working with <a href="https://www.niedenthalemotionslab.com/">Paula Niedenthal</a>. I received my Ph.D. from the Psychological and Brain Sciences department at Dartmouth College, where I worked with <a href="http://www.wheatlab.com/">Thalia Wheatley</a>. 
+I am currently a post-doctoral research fellow in the Psychology department at UW-Madison working with <a href="https://www.niedenthalemotionslab.com/">Paula Niedenthal</a>. I received my Ph.D. from the Psychological and Brain Sciences department at Dartmouth College, where I worked with <a href="http://www.wheatlab.com/">Thalia Wheatley</a>. In the fall, I will be moving to Tennessee to start my own lab in the Psychology department at the University of Tennessee at Knoxville. I will be recruiting graduate students and undergraduate research assistants to work with me! 
 
 Before beginning my graduate studies at Dartmouth, I received BAs in Music and Cognitive Science at the University of Virginia, where I worked with <a href="https://psychology.as.virginia.edu/people/profile/mk9y">Michael Kubovy</a> and <a href="https://sites.google.com/site/lauramariegetz/">Laura Getz</a>. After I graduated, I was a post-baccalaureate research assistant at the National Institutes of Health working with <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/alex-martin">Alex Martin</a>. 
 
 # **About My Research**
 
-My research aims to understand how nonverbal behaviors such as eye contact and facial expression can connect us to one another when interacting. Previously, I used eye-tracking to measure pupillary synchrony between two interacting people in order to investigate how we dynamically share and break attention with one another around moments of eye contact in conversation. My post-doctoral work aims to understand how similar dynamics might accompany naturally-occurring facial expressions. Specifically, I want to understand the typical facial expressions a person can expect to see in their daily social interactions, and I want to understand how the interplay of facial expressions between two interacting individuals can inform how perceptive they are when reading their partner’s emotional state.
+My research program investigates how we, as individuals and social beings, coordinate our behavior and physiology to produce positive social interactions. To answer this question, my research links basic cognitive processes observed via rigorous, tightly controlled experimental paradigms with naturalistic studies of dyadic social interaction. My lab will use a range of computational methods, including natural language processing tools, cluster analyses and time series analyses. Current directions in my research include 1) studying individual differences in how people coordinate behaviors like facial expressions and attention-related pupil dilations, and 2) exploring how movements into and out of interpersonal synchrony over the course of a conversation may help to facilitate successful communication. my overarching goal is to study social coordination in its natural complexity to understand what connects us to each other when we interact.
 
 # **Publications**
 
 <i>*In prep*
 
-***Wohltjen, S.***, Zhong, Y., Colon, I., Zhao, O., Ward, E., Li, Y., Mutlu, B., & Niedenthal, P. (in prep). Discovering facial behaviors in the wild.
 
-***Wohltjen, S.***, Goldman, M., & Wheatley, T. (in prep). Hanging on to almost every word: Pupillary asynchrony between storytellers and listeners predicts enhanced memory for surprising, exciting story moments. 
+Colon, Y., **Wohltjen, S.**, Tong, Y., & Niedenthal, P. (in prep). Feeling, movement, meaning: Exploring the conceptual space of dynamic facial expression. 
 
-***Wohltjen, S.*** & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink rate decreases as conversation partners become more engaged.
+**Wohltjen, S.**, Goldman, M., & Wheatley, T. (in prep). Hanging on to almost every word: Pupillary asynchrony between storytellers and listeners predicts enhanced memory for surprising, exciting story moments. 
+
+Zhu, Z., Huang, A., **Wohltjen, S.**, Niedenthal, P., & Li, Y. (in prep). An unsupervised and generative approach to categorizing facial expression. 
+
+**Wohltjen, S.**, Colon, I., Zhu, Z., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (in prep). A data-driven framework for discovering facial behaviors in the wild.
+
+**Wohltjen, S.** & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink rate decreases as conversation partners become more engaged.
+
 
 <i>*Under review*
 
-**Wohltjen, S.**, Zhong, Y., Colon, I., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (under review). Uniting theory and data: The promise and challenge of creating an honest model of facial expression. Cognition and Emotion.
+Niedenthal, P. & **Wohltjen, S.** (under review). Historical migration patterns and the emergence of culture. Featured review for special issue on historical psychology in Current Research in Ecological and Social Psychology.
 
 <i>*Published*
+
+**Wohltjen, S.**, Zhong, Y., Colon, I., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (2025). Uniting theory and data: The promise and challenge of creating an honest model of facial expression. Cognition and Emotion, 1-15. <a href="https://doi.org/10.1080/02699931.2024.2446945">[link]</a>
 
 **Wohltjen, S.**, & Wheatley, T. (2024). Interpersonal eye-tracking reveals the dynamics of interacting minds. Frontiers in Human Neuroscience –Interacting Minds and Brains, 18. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1356680/full">[link]</a>
 
