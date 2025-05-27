@@ -19,7 +19,6 @@ My research program investigates how we, as individuals and social beings, coord
 
 <i>*In prep*
 
-
 Colon, Y., **Wohltjen, S.**, Tong, Y., & Niedenthal, P. (in prep). Feeling, movement, meaning: Exploring the conceptual space of dynamic facial expression. 
 
 **Wohltjen, S.**, Goldman, M., & Wheatley, T. (in prep). Hanging on to almost every word: Pupillary asynchrony between storytellers and listeners predicts enhanced memory for surprising, exciting story moments. 
@@ -29,7 +28,6 @@ Zhu, Z., Huang, A., **Wohltjen, S.**, Niedenthal, P., & Li, Y. (in prep). An uns
 **Wohltjen, S.**, Colon, I., Zhu, Z., Huang, A., Miller, K., Li, Y., Mutlu, B., & Niedenthal, P. (in prep). A data-driven framework for discovering facial behaviors in the wild.
 
 **Wohltjen, S.** & Wheatley, T. (in prep) Rapt with attention: Spontaneous eye blink rate decreases as conversation partners become more engaged.
-
 
 <i>*Under review*
 
