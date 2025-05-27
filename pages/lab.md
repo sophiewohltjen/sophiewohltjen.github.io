@@ -19,4 +19,4 @@ My research program investigates how we, as individuals and social beings, coord
 I will be recruiting students for fall of 2026! Reach out if you find the above description of my research interesting and are a person who finds joy and growth in the messiness/failure inherent in the learning process. Bonus points if you have similar interests that you'd like to explore together. 
 
 <b>**Research Assistants**
-Are you an undergraduate at UT interested in working in the Social Coordination lab? Fill out this google form and we will contact you for an interview!
+Are you an undergraduate at UT interested in working in the Social Coordination lab? Fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScG0RC5CVKFxu5MlUOCBU0SJALxwk0OqWEZu88-P_znuCjL6w/viewform?usp=sharing&ouid=102063607802630802476">this google form</a> and we will contact you for an interview!
