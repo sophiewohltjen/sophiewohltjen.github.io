@@ -7,7 +7,7 @@ weight: 3
 
 # **Introducing the UTK Social Coordination Lab**
 
-I will be starting in fall of 2025 as an assistant professor in the psychology department at the University of Tennessee at Knoxville. My lab will study how we manage to **coordinate** our behavior with one another when we interact in ways that build deep and lasting social **connections.**
+I will be starting in fall of 2025 as an assistant professor in the psychology department at the University of Tennessee at Knoxville. My lab will study how we manage to **coordinate** our behavior with one another when we interact in ways that build deep and lasting social **connections**.
 
 Most of life’s greatest moments—landing a dream job, learning something new, falling in love—begin with a single positive social interaction. Positive interactions can build deep relationships that mitigate feelings of loneliness and generate creative solutions beyond the reach of one mind alone. When they are happening, these interactions feel easy to us, like they are second nature. But if we look more closely, we see that social interation is actually an impressive feat of coordination. When people interact, they must coordinate a cascade of social cues—adapting, moment by moment, to each other’s words, facial expressions, body language, and actions—each of which may vary from culture-to-culture, or even person-to-person. When these adaptations go awry, they can do more than just preclude feelings of shared understanding, empathy, and connection. They might deter us from seeking out such interactions in the future. 
 
@@ -15,8 +15,8 @@ My research program investigates how we, as individuals and social beings, coord
 
 # **Join the lab!**
 
-<b>**Research Assistants**
-Are you an undergraduate at UT interested in working in the Social Coordination lab? Fill out this google form and we will contact you for an interview!
-
 <b>**PhD Students**
 I will be recruiting students for fall of 2026! Reach out if you find the above description of my research interesting and are a person who finds joy and growth in the messiness/failure inherent in the learning process. Bonus points if you have similar interests that you'd like to explore together. 
+
+<b>**Research Assistants**
+Are you an undergraduate at UT interested in working in the Social Coordination lab? Fill out this google form and we will contact you for an interview!
