@@ -7,7 +7,11 @@ weight: 3
 
 # **Introducing the UTK Social Coordination Lab**
 
-I will be starting in fall of 2025 as an assistant professor in the psychology department at the University of Tennessee at Knoxville. My lab will study how we manage to **coordinate** our behavior with one another when we interact in ways that build deep and lasting social **connections**.
+I will be starting in fall of 2025 as an assistant professor in the psychology department at the University of Tennessee at Knoxville. 
+
+My lab will study how we manage to **coordinate** our behavior with one another when we interact in ways that build deep and lasting social **connections**.
+
+
 
 Most of life’s greatest moments—landing a dream job, learning something new, falling in love—begin with a single positive social interaction. Positive interactions can build deep relationships that mitigate feelings of loneliness and generate creative solutions beyond the reach of one mind alone. When they are happening, these interactions feel easy to us, like they are second nature. But if we look more closely, we see that social interation is actually an impressive feat of coordination. When people interact, they must coordinate a cascade of social cues—adapting, moment by moment, to each other’s words, facial expressions, body language, and actions—each of which may vary from culture-to-culture, or even person-to-person. When these adaptations go awry, they can do more than just preclude feelings of shared understanding, empathy, and connection. They might deter us from seeking out such interactions in the future. 
 
