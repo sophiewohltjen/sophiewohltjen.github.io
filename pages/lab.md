@@ -9,7 +9,7 @@ weight: 3
 
 I will be starting in fall of 2025 as an assistant professor in the psychology department at the University of Tennessee at Knoxville. 
 
-My lab will study how we manage to **coordinate** our behavior with one another when we interact in ways that build deep and lasting social **connections**.
+My lab will study how we manage to **coordinate** our behavior each other in ways that build deep and lasting social **connections**.
 
 
 
