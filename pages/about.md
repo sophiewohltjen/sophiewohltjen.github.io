@@ -7,11 +7,13 @@ weight: 3
 
 # **About Me**
 
-I am currently a post-doctoral research fellow in the Psychology department at UW-Madison working with <a href="https://www.niedenthalemotionslab.com/">Paula Niedenthal</a>. I received my Ph.D. from the Psychological and Brain Sciences department at Dartmouth College, where I worked with <a href="http://www.wheatlab.com/">Thalia Wheatley</a>. In the fall, I will be moving to Tennessee to start my own lab in the Psychology department at the University of Tennessee at Knoxville. I will be recruiting graduate students and undergraduate research assistants to work with me! 
+I am currently an assistant professor of psychology at the University of Tennessee, Knoxville. I completed my post-doctoral research in the Psychology department at UW-Madison working with <a href="https://www.niedenthalemotionslab.com/">Paula Niedenthal</a>. I received my Ph.D. from the Psychological and Brain Sciences department at Dartmouth College, where I worked with <a href="http://www.wheatlab.com/">Thalia Wheatley</a>. 
 
 Before beginning my graduate studies at Dartmouth, I received BAs in Music and Cognitive Science at the University of Virginia, where I worked with <a href="https://psychology.as.virginia.edu/people/profile/mk9y">Michael Kubovy</a> and <a href="https://sites.google.com/site/lauramariegetz/">Laura Getz</a>. After I graduated, I was a post-baccalaureate research assistant at the National Institutes of Health working with <a href="https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/alex-martin">Alex Martin</a>. 
 
 # **About My Research**
+
+I will be recruiting Ph.D. students for the fall of 2026! 
 
 My research program investigates how we coordinate our behavior and physiology to produce positive social interactions. My research links basic cognitive processes observed via rigorous, tightly controlled experimental paradigms with naturalistic studies of social interaction. I use a range of computational methods to explore the ways that people coordinate with each other, including natural language processing, cluster analyses, and time series analyses. I am currently studying 1) individual differences in how people coordinate behaviors like facial expressions and attention-related pupil dilations, and 2) how people navigate transitions between moments of interpersonal synchrony and asynchrony during conversation. My work moves beyond the idea that heightened synchrony alone is a precursor to successful communication, and instead seeks to understand how moving between moments of synchrony and asynchrony may actually help people communicate with each other. In studying the natural complexity of social coordination, my goal is to understand what connects us to each other when we interact.
 
